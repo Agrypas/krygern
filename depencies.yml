@@ -1,7 +1,7 @@
 main:
   plugins: 
     skbee: 
-      - "https://cdn.modrinth.com/data/a0tlbHZO/versions/6Yr15FgU/SkBee-3.11.1.jar"
+      "https://cdn.modrinth.com/data/a0tlbHZO/versions/6Yr15FgU/SkBee-3.11.1.jar"
     skript-yaml: 
       - "https://github.com/Sashie/skript-yaml/releases/download/v1.6.1/skript-yaml-1.6.1.jar"
   scripts:
