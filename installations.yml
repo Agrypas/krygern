@@ -1,0 +1,11 @@
+installed:
+
+
+
+
+uninstalled:
+  - main
+  - faction
+  - guild
+  - syndicat
+  - map
