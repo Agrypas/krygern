@@ -2,13 +2,16 @@ urls:
   plugins:
     skbee: "https://cdn.modrinth.com/data/a0tlbHZO/versions/6Yr15FgU/SkBee-3.11.1.jar"
     skript-yaml: "https://github.com/Sashie/skript-yaml/releases/download/v1.6.1/skript-yaml-1.6.1.jar"
+    skuishy: "https://github.com/Fusezion/Skuishy/releases/download/2.8.1/Skuishy-2.8.1.jar"
     worldguard: "https://cdn.modrinth.com/data/DKY9btbd/versions/f9NoeotB/worldguard-bukkit-7.0.13-dist.jar"
     worldedit: "https://cdn.modrinth.com/data/1u6JkXh5/versions/DlD8WKr9/worldedit-bukkit-7.3.11.jar"
+    
   yml:
-    installations: 
+    installations: "https://raw.githubusercontent.com/Agrypas/krygern/refs/heads/main/installations.yml"
 
 
 main:
   plugins: 
     - skbee
     - skript-yaml
+    - skuishy
